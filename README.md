@@ -4,8 +4,6 @@ Hi there, I'm Maurice!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maurice-maina-b9802a23a) 
 
-# 💻 Tech Stack:
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Macharia-Maurice&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Macharia-Maurice&theme=dark&hide_border=false)<br/>
